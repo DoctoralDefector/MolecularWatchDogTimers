@@ -1,0 +1,79 @@
+// simulates one heart beat of 120 BPM over 15 seconds
+trigger Hb @ 10 M when time > .5
+trigger Hb @ 10 M when time > 1
+trigger Hb @ 10 M when time > 1.5
+trigger Hb @ 10 M when time > 2
+trigger Hb @ 10 M when time > 2.5
+trigger Hb @ 10 M when time > 3
+trigger Hb @ 10 M when time > 3.5
+trigger Hb @ 10 M when time > 4
+trigger Hb @ 10 M when time > 4.5
+trigger Hb @ 10 M when time > 5
+trigger Hb @ 10 M when time > 5.5
+trigger Hb @ 10 M when time > 6
+trigger Hb @ 10 M when time > 6.5
+trigger Hb @ 10 M when time > 7
+trigger Hb @ 10 M when time > 7.5
+trigger Hb @ 10 M when time > 8
+trigger Hb @ 10 M when time > 8.5
+trigger Hb @ 10 M when time > 9
+trigger Hb @ 10 M when time > 9.5
+trigger Hb @ 10 M when time > 10
+trigger Hb @ 10 M when time > 10.5
+trigger Hb @ 10 M when time > 11
+trigger Hb @ 10 M when time > 11.5
+trigger Hb @ 10 M when time > 12
+trigger Hb @ 10 M when time > 12.5
+trigger Hb @ 10 M when time > 13
+trigger Hb @ 10 M when time > 13.5
+trigger Hb @ 10 M when time > 14
+trigger Hb @ 10 M when time > 14.5
+trigger Hb @ 10 M when time > 15
+
+// simulates one heart beat of 90 BPM over 15 seconds
+trigger Hb @ 10 M when time > 15.75
+trigger Hb @ 10 M when time > 16.5
+trigger Hb @ 10 M when time > 17.25
+trigger Hb @ 10 M when time > 18
+trigger Hb @ 10 M when time > 18.75
+trigger Hb @ 10 M when time > 19.5
+trigger Hb @ 10 M when time > 20.25
+trigger Hb @ 10 M when time > 21
+trigger Hb @ 10 M when time > 21.75
+trigger Hb @ 10 M when time > 22.5
+trigger Hb @ 10 M when time > 23.25
+trigger Hb @ 10 M when time > 24
+trigger Hb @ 10 M when time > 24.75
+trigger Hb @ 10 M when time > 25.5
+trigger Hb @ 10 M when time > 26.25
+trigger Hb @ 10 M when time > 27
+trigger Hb @ 10 M when time > 27.75
+trigger Hb @ 10 M when time > 28.5
+trigger Hb @ 10 M when time > 29.25
+
+// simulates one heart beat of 60 BPM over 15 seconds
+trigger Hb @ 10 M when time > 30
+trigger Hb @ 10 M when time > 31
+trigger Hb @ 10 M when time > 32
+trigger Hb @ 10 M when time > 33
+trigger Hb @ 10 M when time > 34
+trigger Hb @ 10 M when time > 35
+trigger Hb @ 10 M when time > 36
+trigger Hb @ 10 M when time > 37
+trigger Hb @ 10 M when time > 38
+trigger Hb @ 10 M when time > 39
+trigger Hb @ 10 M when time > 40
+trigger Hb @ 10 M when time > 41
+trigger Hb @ 10 M when time > 42
+trigger Hb @ 10 M when time > 43
+trigger Hb @ 10 M when time > 44
+
+// simulates one heart beat of 30 BPM over 15 seconds
+trigger Hb @ 10 M when time > 46
+trigger Hb @ 10 M when time > 48
+trigger Hb @ 10 M when time > 50
+trigger Hb @ 10 M when time > 52
+trigger Hb @ 10 M when time > 54
+trigger Hb @ 10 M when time > 56
+trigger Hb @ 10 M when time > 58
+trigger Hb @ 10 M when time > 60
